@@ -1,2 +1,3 @@
 # Dima-1964
 Я - опытный специалист с более чем 25-летним стажем в области ИТ, бизнес-аналитики, управления проектами и интеграции AI-решений. Моя экспертиза охватывает стратегическое планирование, оптимизацию бизнес-процессов, автоматизацию и цифровую трансформацию. Я успешно управлял проектами в ИТ-интеграции, оптово-розничной торговле и стартапах
+I am an experienced professional with over 25 years of experience in IT, business intelligence, project management and integration of AI solutions. My expertise covers strategic planning, business process optimisation, automation and digital transformation. I have successfully managed projects in IT integration, wholesale and retail and startups
